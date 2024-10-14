@@ -48,9 +48,31 @@
 
   ## DOKUMENTASI
   ## 1. LOGIN AKUN
-        ![Screenshot 2024-10-14 180113](https://github.com/user-attachments/assets/71b01def-5a5b-4562-9901-8ec4e9d1eb3c)
+     ![Screenshot 2024-10-14 180113](https://github.com/user-attachments/assets/3b65fb7b-094a-481a-b29a-b3d248ae136f)
         yang pertama kita bisa login menggunakan akun user yang sudah tersedia di dalam pemograman yang sudah tervalidasi akun untuk login nya
+  
 
-## 2. TAMPILAN MENU UTAMA 
-      ![image](https://github.com/user-attachments/assets/179475e7-e554-474d-bf36-551b8a95c268)
+   ## 2. TAMPILAN MENU UTAMA 
+   ![image](https://github.com/user-attachments/assets/179475e7-e554-474d-bf36-551b8a95c268)
+      yang kedua jika berhasil login maka kita akan di bawa ke menu utama dari sebuah aplikasi To-Do-List, dan di sana ada 5 fitur yaitu menambahkan tugas, Lihat semua             tugas, update tugas, hapus tugas, dan keluar dari program.
+
+  ## 3. TAMPILAN MENU UTAMA PILIHAN PERTAMA
+     ![image](https://github.com/user-attachments/assets/e13ee010-7b54-4bdb-ad48-12ffca52da3d)
+        yang ketiga, jika kita memilih pilihan pertama maka akan menampilkan pilihan untuk input list ke tugas pribadi atau tugas kerja.
+     ![image](https://github.com/user-attachments/assets/9df46e6d-8875-4e4b-a74f-d9e19fc2db51)
+        jika memilih pilihan pertama maka bisa menginput untuk mengisi list tugas pribadi.
+     ![image](https://github.com/user-attachments/assets/b2466355-7c62-4698-b89d-c90f24698717)
+        jika memilih pilihan kedua maka bisa menginput untuk list tugas kerja.
+
+  ## 4. TAMPILAN MENU UTAMA PILIHAN KEDUA
+     ![image](https://github.com/user-attachments/assets/33fbbc78-0bfb-4ff7-a5b9-ecf0319590c2)
+     Yang keempat, jika memilih pilihan ke tiga maka kita akan di perlihatkan hasil dari tugas yang telah kita kerjakan anatar sudah selesai atau belum selesai
+
+  ## 5. TAMPILAN MENU UTAMA PILIHAN KE TIGA
+
+
+
+
+
+
 
