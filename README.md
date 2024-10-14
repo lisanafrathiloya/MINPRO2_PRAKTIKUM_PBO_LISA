@@ -46,4 +46,11 @@
   - Interface yang mendefinisikan metode abstrak untuk operasi CRUD (Create, Read, Update, Delete).
   - Interface ini mengatur kontrak yang harus diikuti oleh kelas TaskService dalam mengelola tugas.
 
-  
+  ## DOKUMENTASI
+  ## 1. LOGIN AKUN
+        ![Screenshot 2024-10-14 180113](https://github.com/user-attachments/assets/71b01def-5a5b-4562-9901-8ec4e9d1eb3c)
+        yang pertama kita bisa login menggunakan akun user yang sudah tersedia di dalam pemograman yang sudah tervalidasi akun untuk login nya
+
+## 2. TAMPILAN MENU UTAMA 
+      ![image](https://github.com/user-attachments/assets/179475e7-e554-474d-bf36-551b8a95c268)
+
