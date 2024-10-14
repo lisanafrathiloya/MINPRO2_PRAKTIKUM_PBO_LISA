@@ -1,4 +1,4 @@
-# MINPRO1
+# MINPRO2
 # TO-DO-LIST
 
 ## ToDoListApp adalah pemograman sederhana untuk mengelola daftar tugas (to-do list). Program ini memungkinkan pengguna untuk login, menambahkan tugas baru, melihat semua tugas, memperbarui tugas, dan menghapus tugas. Aplikasi ini dibangun dengan bahasa pemrograman Java.
@@ -56,19 +56,35 @@
    ![image](https://github.com/user-attachments/assets/179475e7-e554-474d-bf36-551b8a95c268)
       yang kedua jika berhasil login maka kita akan di bawa ke menu utama dari sebuah aplikasi To-Do-List, dan di sana ada 5 fitur yaitu menambahkan tugas, Lihat semua             tugas, update tugas, hapus tugas, dan keluar dari program.
 
-  ## 3. TAMPILAN MENU UTAMA PILIHAN PERTAMA
+  ## 3. TAMPILAN MENU UTAMA PILIHAN PERTAMA (CREATE)
      ![image](https://github.com/user-attachments/assets/e13ee010-7b54-4bdb-ad48-12ffca52da3d)
-        yang ketiga, jika kita memilih pilihan pertama maka akan menampilkan pilihan untuk input list ke tugas pribadi atau tugas kerja.
+         yang ketiga, jika kita memilih pilihan pertama maka akan menampilkan pilihan untuk input list ke tugas pribadi atau tugas kerja.
      ![image](https://github.com/user-attachments/assets/9df46e6d-8875-4e4b-a74f-d9e19fc2db51)
         jika memilih pilihan pertama maka bisa menginput untuk mengisi list tugas pribadi.
      ![image](https://github.com/user-attachments/assets/b2466355-7c62-4698-b89d-c90f24698717)
         jika memilih pilihan kedua maka bisa menginput untuk list tugas kerja.
 
-  ## 4. TAMPILAN MENU UTAMA PILIHAN KEDUA
+  ## 4. TAMPILAN MENU UTAMA PILIHAN KEDUA (READ)
      ![image](https://github.com/user-attachments/assets/33fbbc78-0bfb-4ff7-a5b9-ecf0319590c2)
-     Yang keempat, jika memilih pilihan ke tiga maka kita akan di perlihatkan hasil dari tugas yang telah kita kerjakan anatar sudah selesai atau belum selesai
+        Yang keempat, jika memilih pilihan ke dua maka kita akan di perlihatkan hasil dari tugas yang telah kita kerjakan anatar sudah selesai atau belum selesai
 
   ## 5. TAMPILAN MENU UTAMA PILIHAN KE TIGA
+     ![image](https://github.com/user-attachments/assets/4e334cf9-b7bd-47b9-a082-05ccb0f07975)
+        yang kelima, jika kita memilih pilihan ke tiga maka kita akan mengupdate data list yang ingin di update.
+     ![image](https://github.com/user-attachments/assets/838f4cfa-d366-4555-906b-c58b96bdae15)
+        Lalu jika tidak dapat data yang ingin kita update maka akan ada pemberitahuan jika tugas tidak di temukan.
+
+  ## 6. TAMPILAN MENU UTAMA PILIHAN KE EMPAT
+     ![image](https://github.com/user-attachments/assets/e7235d07-bd18-475f-a431-2868abf2d189)
+        yang keenam, jika kita memilih pilihan ke empat maka kita akan menghapus data list yang ingin di hapus
+
+   ## 7. TAMPILAN MENU UTAMA PILIHAN KE LIMA
+     ![image](https://github.com/user-attachments/assets/4e8e3d39-dce8-43a8-be1e-96f51481f62a)
+        Yang ke tujuh, jika kita memilih pilihan ke lima maka kita akan keluar dari program ToDoList APP
+
+
+
+
 
 
 
